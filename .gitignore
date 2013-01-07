@@ -1,1 +1,7 @@
 target/
+
+*.iml
+*.iws
+*.ipr
+*.DS_STORE
+.DS_Store
